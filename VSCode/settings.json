@@ -1,0 +1,39 @@
+{
+    "workbench.iconTheme": "vscode-great-icons",
+    "window.zoomLevel": -1,
+    "editor.formatOnSave": false,
+    "python.linting.pep8Enabled": true,
+    "python.linting.prospectorEnabled": true,
+    "python.formatting.formatOnSave": true,
+    "git.confirmSync": false,
+    "html.format.enable": true,
+    "html.format.wrapLineLength": 120,
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": true,
+    "editor.minimap.maxColumn": 120,
+    "editor.fontFamily": "Hack, monospace",
+    "editor.renderWhitespace": "all",
+    "editor.renderIndentGuides": true,
+    "editor.tabSize": 4,
+    "editor.cursorStyle": "line",
+    "files.associations": {
+        "*.liquid": "liquid"
+    },
+    "workbench.sideBar.location": "right",
+    "zenMode.hideTabs": true,
+    "zenMode.hideStatusBar": true,
+    "todohighlight.isCaseSensitive": false,
+    "workbench.welcome.enabled": false,
+    "editor.renderLineHighlight": "gutter",
+    "editor.codeLens": true,
+    "editor.glyphMargin": true,
+    "editor.trimAutoWhitespace": true,
+    "todohighlight.isEnable": false,
+    "editor.rulers": [
+        79,
+        100,
+        120
+    ],
+    "git.enableSmartCommit": true,
+    "workbench.colorTheme": "Solarized Dark"
+}
